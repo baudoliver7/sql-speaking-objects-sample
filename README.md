@@ -15,7 +15,7 @@ sending us your pull request please run full Maven build:
 
 Keep in mind that JDK7 and Maven 3.1.0 are the lowest versions you may use.
 
-## Got questions?
+## Got questions ?
 
 If you have questions or general suggestions, don't hesitate to submit
 a new [Github issue](https://github.com/baudoliver7/sql-speaking-objects-sample/issues/new).
