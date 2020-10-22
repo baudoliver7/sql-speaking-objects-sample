@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/baudoliver7/sql-speaking-objects-sample/blob/main/LICENSE.txt)
 
 ## What does it do ?
-It is a sample of what you can expect from [SQL Speaking Objects](https://www.yegor256.com/2014/12/01/orm-offensive-anti-pattern.html). I used a pattern to avoid to put ID method in domain interface.
+It is a sample of what you can expect from [SQL Speaking Objects](https://www.yegor256.com/2014/12/01/orm-offensive-anti-pattern.html). I used a pattern to avoid to put ID method in domain interface. I will talk about that in my next article !
 
 ## How to contribute
 Fork repository, make changes, send us a pull request. We will review
