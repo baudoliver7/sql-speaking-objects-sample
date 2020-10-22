@@ -1,0 +1,14 @@
+language: java
+jdk:
+  - openjdk8
+cache:
+  directories:
+    - $HOME/.m2
+env:
+  global:
+    - MAVEN_OPTS="-Xmx4g"
+    - JAVA_OPTS="-Xmx4g"
+script:
+  - set -e
+  - mvn clean install -Pqulice --errors
+  - set +e
